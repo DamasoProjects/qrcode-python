@@ -1,1 +1,1 @@
-# qrcode-python
+Instalar "pip install webbrowser"
